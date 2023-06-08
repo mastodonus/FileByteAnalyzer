@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileByteAnalyzer", "FileByteAnalyzer.csproj", "{FCF1DFFE-7A49-4C0A-B568-E3D9D80BF29D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCF1DFFE-7A49-4C0A-B568-E3D9D80BF29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF1DFFE-7A49-4C0A-B568-E3D9D80BF29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF1DFFE-7A49-4C0A-B568-E3D9D80BF29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF1DFFE-7A49-4C0A-B568-E3D9D80BF29D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
