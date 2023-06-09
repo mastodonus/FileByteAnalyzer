@@ -6,7 +6,7 @@ FileByteAnalyzer displays up to 50 bytes in Base64, Hex and UTF-8. Additionally,
 `.\FileByteAnalyzer.exe <path_to_file> <offset>`
 ## Examples
 `.\FileByteAnalyzer.exe <path_to_file>` 
-![Example 1](img\example-1.png)
+![Example 1](./img/example-1.png)
 
 `.\FileByteAnalyzer.exe <path_to_file> <offset>`
-![Example 2](img\example-2.png)
+![Example 2](./img/example-2.png)
